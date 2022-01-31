@@ -1,0 +1,92 @@
+body{
+  background-position: no-repeat center center fixed;
+}
+.dp{
+  width:15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name{
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  margin-top: 250px;
+}
+.cloud{
+  position: absolute;
+  left:200px;
+  top:230px;
+}
+.cloud2{
+  position:absolute;
+  right: 150px;
+  top: 600px;
+}
+.cloud3{
+  position: absolute;
+  left: 150px;
+}
+.cloud4{
+  position: absolute;
+  right:150px;
+}
+.cloud5{
+  position: absolute;
+  left: 150px;
+}
+.cloud6{
+  position: absolute;
+  right: 150px;
+}
+.sun{
+  width: 10%;
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+h3{
+  font-family: cursive;
+  text-align: center;
+  color: white;
+}
+hr{
+  margin-top: 80px;
+  border: dotted grey;
+  border-bottom: none;
+  width: 15%;
+}
+.hi{
+  margin-top: 80px;
+  font-family: cursive;
+  color: white;
+  text-align: center;
+}
+.hey{
+  margin-top: 5px;
+  font-family: cursive;
+  text-align: center;
+  color: white;
+}
+.heya{
+  font-family: cursive;
+  text-align:center;
+  color: white;
+}
+p{
+  margin:10px auto 4px auto;
+  width: 70%;
+  text-align: center;
+  font-family: cursive;
+  color: white;
+  line-height: 1.5;
+}
+#footer{
+  padding:7% 5%;
+  text-align: center;
+  font-weight: bold;
+}
+.social-icon{
+  margin: 10px 10px;
+  color: white;
+}
